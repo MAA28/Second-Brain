@@ -11,11 +11,9 @@
             "id": "2b04bc3bb21d9b53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Todos.md",
-                "mode": "source",
-                "source": false
+                "file": "Todos.md"
               }
             }
           }
@@ -148,8 +146,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c05ef53e281e248d",
+  "active": "2b04bc3bb21d9b53",
   "lastOpenFiles": [
-    "Schule/Darstellendes Spiel/Übungen 1. Klausur.md"
+    "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
+    "Todos.md"
   ]
 }
