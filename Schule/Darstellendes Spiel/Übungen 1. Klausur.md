@@ -98,4 +98,12 @@ Vorbereiten und Einüben einees Stückes (Leseprobe, Bauprobe, Kostümprobe, St�
 
 Protagonist
 ?
-ursprünglich "erster Schauspieler", heute aber: Hauptfigur zentrale Gestalt (Gegenspieler:)
+ursprünglich "erster Schauspieler", heute aber: Hauptfigur zentrale Gestalt (Gegenspieler: Antagonist)
+
+Publikum
+?
+Gesamtheit der Zuschauer und Zuhörer in Vorführungen
+
+Regieanweisung
+?
+synonym verwendet wird: Bühnenanweisung oder Nebentext; Anweisung im Textbuch fpr die Auf
