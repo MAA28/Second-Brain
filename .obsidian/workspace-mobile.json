@@ -11,10 +11,8 @@
             "id": "37f7083e97b1d4b1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled Kanban.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled Kanban.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Untitled Kanban.md"
-          }
+          "state": {}
         }
       },
       {
@@ -130,9 +124,10 @@
   "ribbon": {
     "mostRecentAction": "Open command palette"
   },
-  "active": "9e0c3593a2c4c321",
+  "active": "37f7083e97b1d4b1",
   "lastOpenFiles": [
     "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
+    "Untitled Kanban.md",
     "Untitled.md"
   ]
 }
