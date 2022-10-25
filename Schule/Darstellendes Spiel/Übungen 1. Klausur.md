@@ -3,8 +3,6 @@
 ?
 Vorausbestellung, Stammiete; Anrecht auf Eintrittskarten für eine bestimmte Anzahl von Aufführungen in Theater, Konzert, Ballett und Oper
 
-a::b
-
-Front of multiline
+# Akt
 ?
-Backside of multiline card
+In sich geschlossener Handlungsabschnitt bei einem Bühnenstück; synonym wird "Aufzug" verwendet
