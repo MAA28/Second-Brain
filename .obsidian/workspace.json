@@ -11,12 +11,8 @@
             "id": "2b04bc3bb21d9b53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,6 +142,7 @@
   },
   "active": "c05ef53e281e248d",
   "lastOpenFiles": [
+    "Todos.md",
     "Schule/Darstellendes Spiel/Übungen 1. Klausur.md"
   ]
 }
