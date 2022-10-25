@@ -78,4 +78,12 @@ Veränderung des Gesichts eines Schauspielers, Sängers oder Tünzers, entsprech
 
 Monolog
 ?
-Selbstgespräch einer e
+Selbstgespräch einer einzelnen Figur (im Drama)
+
+Musical
+?
+in den USA (um 1900) entwickelte Unterhaltungsschau mit Schauspiel, Tanz und Musik; moderne For der Operette
+
+Operette
+?
+heiteres
