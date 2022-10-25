@@ -134,3 +134,8 @@ Kleindarsteller; in erster Linie stummer Darsteller, der im Hintergrund die Bpgn
 
 Stoff
 ?
+Geschichte, Thema; historisch-konkreter Inhalt, existiert vor dem Werk; wird vom Autor gewählt und gestaltet
+
+Szene
+?
+kleinst Handlungseinheit des Dramas; Unterabteilung des Aktes; im modernen Drama, zum ei
