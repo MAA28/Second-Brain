@@ -9,4 +9,10 @@ In sich geschlossener Handlungsabschnitt bei einem Bühnenstück; synonym wird "
 
 Applaus
 ?
-Beifallsspende durch Hädneklatschen auch durch Trampeln und Pfei
+Beifallsspende durch Hädneklatschen auch durch Trampeln und Pfeifen
+
+Auftritt/Abgang
+?
+definiertes, festgesetztes Betreten und Verlassen des Bühnenraumes durch eine Dramenfigur bzw. einen Schauspieler; heute auch für Szene gebräuchlich
+
+Autor
