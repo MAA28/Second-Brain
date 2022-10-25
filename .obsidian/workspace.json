@@ -11,9 +11,11 @@
             "id": "2b04bc3bb21d9b53",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Todos.md"
+                "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todos.md",
+                "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todos.md",
+                "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todos.md"
+                "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md"
               }
             }
           },
@@ -146,9 +148,8 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2b04bc3bb21d9b53",
+  "active": "c05ef53e281e248d",
   "lastOpenFiles": [
-    "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
-    "Todos.md"
+    "Schule/Darstellendes Spiel/Übungen 1. Klausur.md"
   ]
 }
