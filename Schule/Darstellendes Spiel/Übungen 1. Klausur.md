@@ -62,4 +62,10 @@ viele Mitarbeiter und Materialien in Szene gesetzt
 
 Komödie
 ?
-Bühnenwerke mit heiterem bzw. komischem Inhalt und glücklichem Ausgang; wichtige Gattung des europäsch
+Bühnenwerke mit heiterem bzw. komischem Inhalt und glücklichem Ausgang; wichtige Gattung des europäischen Dramas; dt. Bezeichnung: Lustspiel
+
+Kostüm
+?
+Kleigung, die im THeater auf der Bühne getragen wird, passend zur Rolle; wird in der Regel im Kostümfundus des Theaters aufbewahrt
+
+Köpersprache
