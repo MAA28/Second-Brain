@@ -16,3 +16,12 @@ Auftritt/Abgang
 definiertes, festgesetztes Betreten und Verlassen des Bühnenraumes durch eine Dramenfigur bzw. einen Schauspieler; heute auch für Szene gebräuchlich
 
 Autor
+?
+Synonyme: Schriftsteller, Theaterdichter, Verfasser
+
+Besetzung
+?
+Rollenverteilung fpr Inszenierungen eines Stücker (Welcher Schauspieler spielt was?)
+
+Bühne
+?
