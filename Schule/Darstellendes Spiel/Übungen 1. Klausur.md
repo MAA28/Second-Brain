@@ -90,3 +90,8 @@ heiteres musikalisches Bühnenstück mit gesprochenen Dialogen und Gesang
 
 Premiere
 ?
+Erstaufführung eines Bühnenwerkes mit Festcharakter in einem bestimmten Theater (alternativ wird der Begriff als Synonym für Urauffphrung verwendet)
+
+Probe
+?
+Vorbereiten und Einüben einees Stück
