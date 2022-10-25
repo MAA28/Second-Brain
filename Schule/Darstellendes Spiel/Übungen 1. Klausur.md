@@ -126,4 +126,11 @@ Planung der Theaterleitung, was an Stücken neu inszeniert und was aus der letzt
 
 Spielzeit
 ?
-Saison im Theater, Zeitraum, für den fest mit Stüc
+Saison im Theater, Zeitraum, für den fest mit Stücken, Resourcen und Schauspielern geplant wir (in der Regle von Herbst bis Sommer)
+
+Statist
+?
+Kleindarsteller; in erster Linie stummer Darsteller, der im Hintergrund die Bpgne füllt, spricht aber auch Text im Chor
+
+Stoff
+?
