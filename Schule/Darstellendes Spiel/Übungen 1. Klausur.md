@@ -112,3 +112,10 @@ Regisseur
 ?
 Spielleiter, der die Regie führt; bringt eine Kunstwerk (nach seinem Konzept) zur Aufführung
 
+Requisit
+?
+(beweglicher) Gegenstand, an dem oder mit dem der Schauspieler eine Handlung (auf der Bühne) vollzieht
+
+Schauspieler
+?
+Darsteller, Bühnenkünstler, Gestalter einer Rolle in Thea
