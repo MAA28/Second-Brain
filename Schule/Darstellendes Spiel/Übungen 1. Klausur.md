@@ -69,3 +69,5 @@ Kostüm
 Kleigung, die im THeater auf der Bühne getragen wird, passend zur Rolle; wird in der Regel im Kostümfundus des Theaters aufbewahrt
 
 Köpersprache
+?
+Gesamtheit von Gestik, Mimik, Proxemik, Haltung und äußerer Erscheinung; wird künstlerisch der Rolle ensprechend gestaltet
