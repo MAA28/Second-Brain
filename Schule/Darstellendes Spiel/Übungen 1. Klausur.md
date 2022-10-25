@@ -36,3 +36,13 @@ Einfühlung
 Technik des Schauspielers, Einswerden mit der Rolle (auch: Einfühlung des Zuschauers, Identifikation mit den Personen und dem Geschehen)
 
 Ensemble
+?
+Gemeinschaft von Künstlern, die spielen und musizieren; Gesamtheit der Mitspieler im Theater
+
+Foyer
+?
+Wandelhalle oder Vorraum im Theater- bzw. Konzerthaus
+
+Gattung
+?
+Grundformen der Dichtun
