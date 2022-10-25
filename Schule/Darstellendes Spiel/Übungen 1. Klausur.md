@@ -33,4 +33,6 @@ Zwiegespräch zweier oder mehrerer Personen
 
 Einfühlung
 ?
-Technik des Schauspielers, Einswerden mit der ROlle (auch: Einfühlun)
+Technik des Schauspielers, Einswerden mit der Rolle (auch: Einfühlung des Zuschauers, Identifikation mit den Personen und dem Geschehen)
+
+Ensemble
