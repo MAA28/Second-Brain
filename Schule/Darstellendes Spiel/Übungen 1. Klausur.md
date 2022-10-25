@@ -45,4 +45,4 @@ Wandelhalle oder Vorraum im Theater- bzw. Konzerthaus
 
 Gattung
 ?
-Grundformen der Dichtun
+Grundformen der Dichtung (epische, lyrische, dramatische/dialogisch-szenische Texte); Unterarten der Gattung Epik sind etwa Roman und Kurzgeschichte. Da der Begriff als altmodisch und zu eng gefasst gilt, spricht man heute von Te
