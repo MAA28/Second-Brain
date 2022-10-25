@@ -118,4 +118,12 @@ Requisit
 
 Schauspieler
 ?
-Darsteller, Bühnenkünstler, Gestalter einer Rolle in Thea
+Darsteller, Bühnenkünstler, Gestalter einer Rolle in Theater und Film
+
+Spielplan
+?
+Planung der Theaterleitung, was an Stücken neu inszeniert und was aus der letzten SPielzeit übernommen wird
+
+Spielzeit
+?
+Saison im Theater, Zeitraum, für den fest mit Stüc
