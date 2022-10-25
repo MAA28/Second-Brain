@@ -1,12 +1,7 @@
+#lol
+the question goes on this side::answer goes here!
+
 #flaschcards
-# Abonnement
-Abonnement
+Front of multiline
 ?
-Vorausbestellung, Stammiete; Anrecht auf Eintrittskarten für eine bestimmte Anzahl von Aufführungen in Theater, Konzert, Ballett und Oper
-
-#flaschcards 
-# Akt
-Akt
-?
-In sich geschlossener Handlungsabschnitt bei einem Bühnenstück; synonym wird "Aufzug" verwendet
-
+Backside of multiline card
