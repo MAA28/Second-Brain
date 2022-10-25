@@ -11,8 +11,12 @@
             "id": "37f7083e97b1d4b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deutscher Faschismus.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Deutscher Faschismus.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Deutscher Faschismus.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Deutscher Faschismus.md"
+          }
         }
       },
       {
@@ -128,6 +136,6 @@
   "lastOpenFiles": [
     "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
     "Untitled Kanban.md",
-    "Untitled.md"
+    "Deutscher Faschismus.md"
   ]
 }
