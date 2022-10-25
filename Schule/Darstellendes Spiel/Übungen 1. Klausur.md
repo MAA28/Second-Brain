@@ -53,4 +53,8 @@ Bezeichnung für Dichtungen, wo Komik und erschreckend Unheimliches verbunden si
 
 Happy End
 ?
-guter Ausgang einer Bühnen- od
+guter Ausgang einer Bühnen- oder Filmhandung (engl.: "happy ending")
+
+Inszenierung
+?
+der Text eines Bühnenwerkes gelangt zur Darstellung auf der Bühne die Vorlage wird durch bestimmte 
