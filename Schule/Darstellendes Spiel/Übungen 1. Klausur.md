@@ -94,4 +94,8 @@ Erstaufführung eines Bühnenwerkes mit Festcharakter in einem bestimmten Theate
 
 Probe
 ?
-Vorbereiten und Einüben einees Stück
+Vorbereiten und Einüben einees Stückes (Leseprobe, Bauprobe, Kostümprobe, Stückprobe, Hauptprobe, Generalprobe)
+
+Protagonist
+?
+ursprünglich "erster Schauspieler", heute aber: Hauptfigur zentrale Gestalt (Gegenspieler:)
