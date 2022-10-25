@@ -86,4 +86,4 @@ in den USA (um 1900) entwickelte Unterhaltungsschau mit Schauspiel, Tanz und Mus
 
 Operette
 ?
-heiteres
+heiteres musikalisches Bühnenstück mit gesprochenen Dialogen und   
