@@ -11,8 +11,12 @@
             "id": "37f7083e97b1d4b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md"
+          }
         }
       },
       {
@@ -122,9 +130,9 @@
     "currentTab": 0
   },
   "ribbon": {
-    "mostRecentAction": "Open command palette"
+    "mostRecentAction": "Review flashcards"
   },
-  "active": "dc08f6190c72a4ae",
+  "active": "37f7083e97b1d4b1",
   "lastOpenFiles": [
     "Untitled.md"
   ]
