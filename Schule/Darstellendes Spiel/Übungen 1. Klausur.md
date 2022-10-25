@@ -150,4 +150,4 @@ Drama, in dem Tragik und KOmik vermischt sind; ernstes Spiel mit heiterem Ausgan
 
 Uraufführung
 ?
-Ein Bühnenwerk wird zum ersten Mal vor P
+Ein Bühnenwerk wird zum ersten Mal vor Publikum gespielt
