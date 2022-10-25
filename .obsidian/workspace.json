@@ -128,8 +128,17 @@
                 "file": "Untitled.md"
               }
             }
+          },
+          {
+            "id": "ca316eabfd69bd8c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -139,6 +148,6 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2b04bc3bb21d9b53",
+  "active": "ca316eabfd69bd8c",
   "lastOpenFiles": []
 }
