@@ -28,4 +28,9 @@ Bühne
 (In der Regel erhöhte) begrenzte Spielfläche der Schauspieler zumeist vom Zuschauerraum abgegrenzt
 
 DIalog
-? Zwiegespräch zweier oder mehrerer Personen
+?
+Zwiegespräch zweier oder mehrerer Personen
+
+Einfühlung
+?
+Technik des Schauspielers, Einswerden mit der ROlle (auch: Einfühlun)
