@@ -144,4 +144,10 @@ Tragödie
 ?
 Drama, bei dem der Protagonist in einen dramatischen (tief greifenden) Konflikt gerät und am Ende scheitert
 
-Tragiko
+Tragikomödie
+?
+Drama, in dem Tragik und KOmik vermischt sind; ernstes Spiel mit heiterem Ausgang oder umgekehrt
+
+Uraufführung
+?
+Ein Bühnenwerk wird zum ersten Mal vor P
