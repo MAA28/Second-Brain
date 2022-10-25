@@ -45,4 +45,12 @@ Wandelhalle oder Vorraum im Theater- bzw. Konzerthaus
 
 Gattung
 ?
-Grundformen der Dichtung (epische, lyrische, dramatische/dialogisch-szenische Texte); Unterarten der Gattung Epik sind etwa Roman und Kurzgeschichte. Da der Begriff als altmodisch und zu eng gefasst gilt, spricht man heute von Te
+Grundformen der Dichtung (epische, lyrische, dramatische/dialogisch-szenische Texte); Unterarten der Gattung Epik sind etwa Roman und Kurzgeschichte. Da der Begriff als altmodisch und zu eng gefasst gilt, spricht man heute von Textarten.
+
+Groteske
+? 
+Bezeichnung für Dichtungen, wo Komik und erschreckend Unheimliches verbunden sind ("Lachen und Entsetzen zugleich")
+
+Happy End
+?
+guter Ausgang einer Bühnen- od
