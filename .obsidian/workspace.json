@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "74537c8159ae8f41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf05cb6bdf82080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#lo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +83,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "865a67ca155ac2f8",
@@ -149,7 +167,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2b04bc3bb21d9b53",
+  "active": "79def6aa6ad9ce14",
   "lastOpenFiles": [
     "Schule/Darstellendes Spiel/Übungen 1. Klausur.md"
   ]
