@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] DS Üben [[Übungen 1. Klausur]]
 - [ ] Quellenkritik
+- [ ] Kostüm basteln
 - [ ] Sachtextanalye
 
 
