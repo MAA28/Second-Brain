@@ -25,3 +25,7 @@ Rollenverteilung fpr Inszenierungen eines Stücker (Welcher Schauspieler spielt 
 
 Bühne
 ?
+(In der Regel erhöhte) begrenzte Spielfläche der Schauspieler zumeist vom Zuschauerraum abgegrenzt
+
+DIalog
+? Zwiegespräch zweier oder mehrerer Personen
