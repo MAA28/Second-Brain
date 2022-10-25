@@ -71,3 +71,11 @@ Kleigung, die im THeater auf der Bühne getragen wird, passend zur Rolle; wird i
 Köpersprache
 ?
 Gesamtheit von Gestik, Mimik, Proxemik, Haltung und äußerer Erscheinung; wird künstlerisch der Rolle ensprechend gestaltet
+
+Maske
+?
+Veränderung des Gesichts eines Schauspielers, Sängers oder Tünzers, entsprechend seiner Rolle
+
+Monolog
+?
+Selbstgespräch einer e
