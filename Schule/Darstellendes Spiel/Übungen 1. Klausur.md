@@ -138,4 +138,10 @@ Geschichte, Thema; historisch-konkreter Inhalt, existiert vor dem Werk; wird vom
 
 Szene
 ?
-kleinst Handlungseinheit des Dramas; Unterabteilung des Aktes; im modernen Drama, zum ei
+kleinst Handlungseinheit des Dramas; Unterabteilung des Aktes; im modernen Drama, zum Beispiel bei Brecht, "Bild" genannt
+
+Tragödie
+?
+Drama, bei dem der Protagonist in einen dramatischen (tief greifenden) Konflikt gerät und am Ende scheitert
+
+Tragiko
