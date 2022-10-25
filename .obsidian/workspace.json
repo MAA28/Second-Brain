@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "865a67ca155ac2f8",
@@ -148,7 +149,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c05ef53e281e248d",
+  "active": "2b04bc3bb21d9b53",
   "lastOpenFiles": [
     "Schule/Darstellendes Spiel/Übungen 1. Klausur.md"
   ]
