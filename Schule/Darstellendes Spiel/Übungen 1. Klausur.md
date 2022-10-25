@@ -57,4 +57,9 @@ guter Ausgang einer Bühnen- oder Filmhandung (engl.: "happy ending")
 
 Inszenierung
 ?
-der Text eines Bühnenwerkes gelangt zur Darstellung auf der Bühne die Vorlage wird durch bestimmte 
+der Text eines Bühnenwerkes gelangt zur Darstellung auf der Bühne die Vorlage wird durch bestimmte Regiekonzepte,
+viele Mitarbeiter und Materialien in Szene gesetzt
+
+Komödie
+?
+Bühnenwerke mit heiterem bzw. komischem Inhalt und glücklichem Ausgang; wichtige Gattung des europäsch
