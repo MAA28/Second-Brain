@@ -106,4 +106,9 @@ Gesamtheit der Zuschauer und Zuhörer in Vorführungen
 
 Regieanweisung
 ?
-synonym verwendet wird: Bühnenanweisung oder Nebentext; Anweisung im Textbuch fpr die Auf
+synonym verwendet wird: Bühnenanweisung oder Nebentext; Anweisung im Textbuch fpr die Aufführung (Angaben zu Ort, Zeit, Raum, Figuren etc.)
+
+Regisseur
+?
+Spielleiter, der die Regie führt; bringt eine Kunstwerk (nach seinem Konzept) zur Aufführung
+
