@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "43214ba5de1d391c",
-        "type": "tabs",
+        "id": "6e953e911d11f26f",
+        "type": "split",
         "children": [
           {
-            "id": "37f7083e97b1d4b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutscher Faschismus.md",
-                "mode": "source",
-                "source": false
+            "id": "43214ba5de1d391c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "37f7083e97b1d4b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Deutscher Faschismus.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "8f5d2f979a765d9d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "369e5ccbabdccdf3",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
