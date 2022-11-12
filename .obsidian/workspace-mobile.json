@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Deutscher Faschismus.md",
+                    "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
                     "mode": "source",
                     "source": false
                   }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Deutscher Faschismus.md",
+            "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Deutscher Faschismus.md",
+            "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Deutscher Faschismus.md"
+            "file": "Schule/Darstellendes Spiel/Übungen 1. Klausur.md"
           }
         }
       },
@@ -152,8 +152,8 @@
   },
   "active": "37f7083e97b1d4b1",
   "lastOpenFiles": [
+    "Deutscher Faschismus.md",
     "Schule/Darstellendes Spiel/Übungen 1. Klausur.md",
-    "Untitled Kanban.md",
-    "Deutscher Faschismus.md"
+    "Untitled Kanban.md"
   ]
 }
